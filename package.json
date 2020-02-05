@@ -59,10 +59,6 @@
     "preact-render-to-string": "^5.0.6",
     "preact-router": "^3.0.1"
   },
-  "peerDependencies": {
-    "prettier": ">1.0.0",
-    "tslint": ">5.0.0"
-  },
   "jest": {
     "transform": {
       "^.+\\.tsx?$": "ts-jest"
